@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I create a hidden folder named .git. I do this because I need to use git for version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I think it's like a buffer where you can add anything you want to commit.
