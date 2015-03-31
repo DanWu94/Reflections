@@ -5,3 +5,7 @@ I create a hidden folder named .git. I do this because I need to use git for ver
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 I think it's like a buffer where you can add anything you want to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I don't know...
