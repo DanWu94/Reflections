@@ -21,3 +21,7 @@ It will show all the commits in timeline, with different branches in different c
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the features added in both two branches will appear in the new branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is easy and swift, but can't handle complicated situations.
