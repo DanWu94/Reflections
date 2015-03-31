@@ -13,3 +13,7 @@ I don't know...
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Situations when I want to try some new features or do some experiments about whose results I am not certain.
+
+How do the diagrams help you visualize the branch structure?
+
+It will show all the commits in timeline, with different branches in different column.
