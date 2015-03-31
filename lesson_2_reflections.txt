@@ -17,3 +17,7 @@ Situations when I want to try some new features or do some experiments about who
 How do the diagrams help you visualize the branch structure?
 
 It will show all the commits in timeline, with different branches in different column.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the features added in both two branches will appear in the new branch.
