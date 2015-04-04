@@ -13,3 +13,7 @@ Fork will clone a repository on the GitHub while clone is to clone a repository 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I don't know...
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I upload my work on a repository on the cloud and when I do that I send a message to other members of the group. It gets harder to collaborate without Git or GitHub.
